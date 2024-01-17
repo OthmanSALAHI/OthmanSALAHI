@@ -17,9 +17,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=othmansalahi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
   <img width=430 src="https://github-readme-streak-stats.herokuapp.com/?user=othmansalahi&theme=react&border_radius=10" alt="streak stats"/>
 </div>
+<div align=center>
+
+[![](https://visitcount.itsvg.in/api?id=othmansalahi&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
 
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
