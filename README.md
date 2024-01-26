@@ -3,7 +3,7 @@
 </h1>
 
 ## 🌐 Socials:
-<div>
+<div align="center>
     Hello world
 </div>
 
