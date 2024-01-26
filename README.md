@@ -14,8 +14,8 @@
 # 📊 GitHub Stats:
 <div align=center>
 
-![](https://github-readme-stats.vercel.app/api?username=othmansalahi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  <img width=430 src="https://github-readme-streak-stats.herokuapp.com/?user=othmansalahi&theme=react&border_radius=10" alt="streak stats"/>
+ ![](https://github-readme-stats.vercel.app/api?username=othmansalahi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  <img width=430 src="https://github-readme-streak-stats.herokuapp.com/?user=othmansalahi&theme=react&border_radius=15" alt="streak stats"/>
 </div>
 <div align=center>
 
