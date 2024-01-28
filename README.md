@@ -22,6 +22,7 @@
 
  ![](https://github-readme-stats.vercel.app/api?username=othmansalahi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
   <img width=430 src="https://github-readme-streak-stats.herokuapp.com/?user=othmansalahi&theme=react&border_radius=15" alt="streak stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=othmansalahi&theme=monokai" />
 </div>
 <div align=center>
 
