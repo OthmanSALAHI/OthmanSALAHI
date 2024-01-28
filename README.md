@@ -28,5 +28,9 @@
 [![](https://visitcount.itsvg.in/api?id=othmansalahi&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
-
+<div align="center">
+    <div style="display:flex;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=othmansalahi&theme=monokai&exclude=python,c,javascript,ruby,html,css" />
+    </div>
+</div>
 
