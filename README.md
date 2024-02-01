@@ -32,7 +32,6 @@
 <div align="center">
     <div style="display:flex;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=othmansalahi&theme=monokai&exclude=python,c,javascript,ruby,html,css" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=othmansalahi&theme=monokai" />
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=othmansalahi&theme=2077&exclude" />
     </div>
 </div>
