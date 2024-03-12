@@ -1,5 +1,6 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Othman+SALAHI!;Web+DEV;-_-;+_+;^_^" />
+    
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I+am+Othmansalahi.;I'm+from+Morocco;I'm+a+web+Dev;I+am+also+a+software+engineer+in+progress)
 </h1>
 
 ## 🌐 Socials:
